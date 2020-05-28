@@ -1,6 +1,7 @@
 library(dslabs)
 data(murders)
 sort(murders$total)
+murders
 
 x <- c(31, 4, 15, 92, 65)
 x
